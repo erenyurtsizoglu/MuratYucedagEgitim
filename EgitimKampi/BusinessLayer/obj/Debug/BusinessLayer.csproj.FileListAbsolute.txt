@@ -1,0 +1,2 @@
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\Concept Digital\Desktop\Eren Uygulamalar\EgitimKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
